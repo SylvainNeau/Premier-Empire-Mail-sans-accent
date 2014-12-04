@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Premier Empire Mail sans accent
-// @namespace    http://your.homepage/
+// @namespace    https://github.com/SylvainNeau/Premier-Empire-Mail-sans-accent
 // @version      0.1
 // @description  Supprime les caracteres chiants dans la liste de diffusion des mails pour Premier Empire
 // @author       Sylvain Néau
